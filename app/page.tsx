@@ -21,7 +21,7 @@ export default function Home() {
         
         <section className="mt-12 md:mt-24">
           <a
-            href="/Fadairo Marvellous CV.pdf"
+            href="/Fadairo-Marvellous CV.pdf"
             download="Fadairo-Marvellous-Resume.pdf"
             className="inline-flex items-center gap-2 rounded-full bg-ink px-6 py-2.5 text-surface transition-opacity hover:opacity-80"
           >

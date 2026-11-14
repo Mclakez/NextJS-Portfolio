@@ -1,0 +1,50 @@
+[
+  {
+    "title": "FrameIt — Batch Image Branding Tool",
+    "description": "FrameIt is a full-stack web app that lets users upload a batch of photos, apply a branded overlay once, and download all images as a ZIP file. Built for event photographers, social media managers, and anyone who needs to brand images at scale.",
+    "link": "https://frame-it-wine.vercel.app",
+    "image": "Frameit.png",
+    "technologies": ["React","Typescript", "Tailwind CSS", "Express", "MongoDB"],
+    "github": "https://github.com/Mclakez/FrameIt"
+  },
+  {
+    "title": "NaijaFix – Community Issue Reporting Platform",
+    "description": "A community issue reporting platform where users can report infrastructure problems such as flooding, overcrowding, and road damage. Includes authentication, issue tracking, and status updates.",
+    "link": "https://naijafix-4pvj.onrender.com",
+    "image": "naijafix_app.png",
+    "technologies": ["CSS", "JavaScript", "Express", "MongoDB"],
+    "github": "https://github.com/Mclakez/naijafix"
+  },
+  {
+    "title": "Noteboards",
+    "description": "An app for storing picture memories and also your ideas",
+    "link": "https://note-boards.vercel.app/",
+    "image": "Noteboards.png",
+    "technologies": ["JS", "Express", "MongoDB"],
+    "github": "https://github.com/Mclakez/NoteBoards"
+  },
+  {
+  "title": "Weather App",
+  "description": "A responsive weather app with real-time forecasts, hourly and daily breakdowns, and live city search powered by the Open-Meteo API.",
+  "link": "https://weather-app-main-blue-five.vercel.app/",
+  "image": "weather-app.png",
+  "technologies": ["React", "Tailwind CSS", "JavaScript", "Open-Meteo API"],
+  "github": "https://github.com/Mclakez/weather-app-typescript"
+  },
+  {
+    "title": "Product App",
+    "description": "A product showcase application.",
+    "link": "https://list-product-typescript.vercel.app/",
+    "image": "product_app.png",
+    "technologies": ["HTML", "CSS", "Typescript"],
+    "github": "https://github.com/Mclakez/list-product-typescript"
+  },
+  {
+    "title": "Space App",
+    "description": "A space-themed web app for exploration content.",
+    "link": "https://space-tourism-website-main-sandy.vercel.app/",
+    "image": "space_app.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/Mclakez/space-tourism-website-main"
+  }
+]
